@@ -8,3 +8,4 @@ public/*
 dist
 coverage/
 .nyc_output/
+newrelic_agent.log
